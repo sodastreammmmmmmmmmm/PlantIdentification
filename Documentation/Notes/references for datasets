@@ -1,0 +1,12 @@
+Flowers Recognition - Alexander Mamaev (https://www.kaggle.com/alxmamaev/flowers-recognition)
+  4242 images of different types of flowers. Only has 5 flower types (daisy, dandelion, rose, sunflower and tulip) so not very advanced.
+  Flowers look vastly different so it is easy to get a high classification accuracy
+  
+LeafSnap (http://leafsnap.com/dataset/)
+  23146 lab images and 7719 field images. Covers 185 species of tree, many of which have similar features.
+  The trees are American so would not be able to gather my own testing images locally.
+  
+Plant dataset - Alex Olariu (https://www.kaggle.com/alexo98/plant-dataset)
+  54.3K images of 38 species. Contains a test and a train dataset. 
+  Very little information given, so if I'm going to use this one it will have to be in a virtual environment
+  
