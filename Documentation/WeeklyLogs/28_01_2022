@@ -1,0 +1,12 @@
+28/01/2022 - 01/02/2022
+
+Targets
+GET THE CNN RUNNING
+
+Targets Met
+Got the CNN running on some written letter data
+Got the base code for ML.NET
+
+Comments 
+Need to work on increasing the accuracy of the CNN.
+It's currently sitting at around 20% which is really not ideal
