@@ -1,0 +1,10 @@
+08/02/2022 - 15/02/2022
+
+Targets
+Implement increased accracy version of cnn
+
+Targets Reached
+Implemented a version that achieves around 90% accuracy
+
+Comments
+Compare the two to see find the differences between them and what is affecting the accuracy
